@@ -86,6 +86,7 @@ var res = str.split(" ", 3);console.log(res)
 var str = "How are you doing today?";
 var res = str.split("o");console.log(res)
 
+
 //JavaScript String startsWith() Method => string.startsWith(searchvalue, start)
 var str = "Hello world, welcome to the universe.";
 var n = str.startsWith("Hello"); console.log(n) ;
